@@ -1,10 +1,5 @@
----
-title: Mathematics
-nav_order: 1
----
+# Economics
 
-# Mathematics
-
-This is the Mathematics section.
+This is the Economics section.
 
 HeLLOOOOOOOO

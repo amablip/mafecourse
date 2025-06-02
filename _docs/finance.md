@@ -3,8 +3,6 @@ title: Mathematics
 nav_order: 1
 ---
 
-# Mathematics
+# Finance
 
-This is the Mathematics section.
-
-HeLLOOOOOOOO
+This is the Finance section.
