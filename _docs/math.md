@@ -1,5 +1,7 @@
 ---
 title: Mathematics
+permalink: /mathematics/
+nav_order: 5
 ---
 
 
