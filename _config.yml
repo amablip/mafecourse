@@ -1,4 +1,22 @@
-title: My Course Site
+title: All you need to know
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 nav_sort: case_insensitive
+
+navigation:
+  - title: Home
+    url: /
+  - title: Business
+    url: /business/
+  - title: Economics
+    url: /economics/
+  - title: Finance
+    url: /finance/
+ - title: Accounting
+    url: /accounting/
+ - title: Maths
+    url: /maths/
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
