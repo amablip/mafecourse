@@ -1,7 +1,7 @@
 ---
 title: Business
+permalink: /business.html
 ---
-
 
 
 # Business studies

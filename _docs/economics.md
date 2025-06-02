@@ -1,7 +1,7 @@
 ---
-title: Economics
+title: economics
+permalink: /economics.html
 ---
-
 
 
 # Economics
