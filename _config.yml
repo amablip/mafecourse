@@ -2,13 +2,3 @@ title: all to know
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 nav_sort: case_insensitive
-
-navigation:
-  - title: Home
-    url: /
-  - title: Business
-    url: /business/
-  - title: Economics
-    url: /economics/
-  - title: Finance
-    url: /finance/
