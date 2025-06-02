@@ -1,3 +1,9 @@
+---
+title: Business
+---
+
+
+
 # Business studies
 This is the section about Business which consists of industry primers and practice for A-level examinations, such as EDEXCEL.
 

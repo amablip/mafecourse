@@ -1,4 +1,4 @@
-title: all you need to know
+title: all to know
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
 nav_sort: case_insensitive
@@ -7,8 +7,8 @@ navigation:
   - title: Home
     url: /
   - title: Business
-    url: /business/
+    url: /business.html
   - title: Economics
-    url: /economics/
+    url: /economics.html
   - title: Finance
-    url: /finance/
+    url: /finance.html

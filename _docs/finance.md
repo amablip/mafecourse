@@ -1,7 +1,8 @@
 ---
-title: Mathematics
-nav_order: 1
+title: Finance
 ---
+
+
 
 # Finance
 
