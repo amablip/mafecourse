@@ -1,6 +1,6 @@
 ---
 title: economics
-permalink: /economics.html
+permalink: /economics/
 ---
 
 

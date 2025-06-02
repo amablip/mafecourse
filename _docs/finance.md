@@ -1,7 +1,7 @@
 ---
-title: Finance
+title: finance
+permalink: /finance/
 ---
-
 
 
 # Finance

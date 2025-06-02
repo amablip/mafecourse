@@ -1,6 +1,6 @@
 ---
 title: Business
-permalink: /business.html
+permalink: /business/
 ---
 
 

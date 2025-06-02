@@ -7,8 +7,8 @@ navigation:
   - title: Home
     url: /
   - title: Business
-    url: /business.html
+    url: /business/
   - title: Economics
-    url: /economics.html
+    url: /economics/
   - title: Finance
-    url: /finance.html
+    url: /finance/
