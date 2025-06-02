@@ -1,6 +1,5 @@
 ---
 title: Business
-permalink: /business/
 nav_order: 2
 ---
 
