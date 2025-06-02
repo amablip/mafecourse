@@ -1,6 +1,8 @@
 ---
+layout: default
 title: economics
 permalink: /economics/
+nav_order: 3
 ---
 
 
