@@ -1,10 +1,11 @@
 ---
-title: finance
+title: Finance
 permalink: /finance/
 nav_order: 4
 ---
 
-
 # Finance
 
-This is the Finance section.
+Welcome to the Finance section.
+
+Add your content here.

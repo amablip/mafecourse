@@ -1,12 +1,11 @@
 ---
-title: economics
+title: Economics
 permalink: /economics/
 nav_order: 3
 ---
 
-
 # Economics
 
-This is the Economics section.
+Welcome to the Economics section.
 
-HeLLOOOOOOOO
+Add your content here.
