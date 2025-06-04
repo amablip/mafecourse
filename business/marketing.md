@@ -12,7 +12,7 @@ Here are a couple of articles that could help you prepare for the Paper 3 examin
 
 
 Taylor Swift buys back her master recordings (Published 30 May 2025)
-https://www.bbc.co.uk/news/articles/cp3n799d0v5o
+<h> https://www.bbc.co.uk/news/articles/cp3n799d0v5o </h>
 
 More than 50,000 set to descend on Boardmasters (Published 7 August 2024)
-https://www.bbc.co.uk/news/articles/cp811rrr71do#:~:text=A%20five%2Dday%20festival%20in,Status%2C%20Sam%20Fender%20and%20Stormzy.
+<h> https://www.bbc.co.uk/news/articles/cp811rrr71do#:~:text=A%20five%2Dday%20festival%20in,Status%2C%20Sam%20Fender%20and%20Stormzy. </h>
