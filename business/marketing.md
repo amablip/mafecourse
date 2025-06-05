@@ -22,6 +22,8 @@ Here are a couple of articles that could help you prepare for the Paper 3 examin
 ##### [UK RECORDED MUSIC EXPORTS HIT RECORD HIGH](https://www.musicbusinessworldwide.com/uk-recorded-music-exports-hit-record-high-of-964m-in-2023-but-global-share-of-consumption-is-shrinking)
 {: .fs-3 }
 
+
+
 ##### [Value of UK music industry hits record £7.6bn thanks to superstar tours](https://www.theguardian.com/business/2024/nov/20/value-of-uk-music-industry-hits-record-elton-john-beyonce)
 {: .fs-3 }
 
