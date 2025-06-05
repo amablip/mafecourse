@@ -1,5 +1,5 @@
 ---
-title: Edexcel
+title: marketing
 parent: Business
 nav_order: 2
 ---
